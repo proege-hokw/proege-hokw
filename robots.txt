@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://proege-hokw.github.io/sitemap.xml
